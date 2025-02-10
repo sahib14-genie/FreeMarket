@@ -4,22 +4,22 @@ Une simple application de liste de tâches à accomplir ( FRESH-LIST) réalisée
 
 ## Vente en ligne
 
-Cette application permet à l'utilisateur d'ajouter et de supprimer des tâches dans une liste. Elle est entièrement réalisée en HTML, CSS pour le style, et JavaScript pour la gestion de l'interactivité.
+Cette application permet à l'utilisateur de faire ces coourses sans se deplacer. Elle est entièrement réalisée en HTML, CSS pour le style, et JavaScript pour la gestion de l'interactivité.
 
 ## Fonctionnalités
 
-- Ajouter une tâche à la liste.
-- Supprimer une tâche de la liste.
+- Vente de diverse produits de qualités.
+- Des produits adaptés à vos tant attendus.
 
 ## Prérequis
 
-Aucun logiciel supplémentaire n'est requis pour utiliser cette application. Tout ce dont vous avez besoin est un navigateur web moderne (comme Google Chrome, Mozilla Firefox, etc.).
+Aucun logiciel supplémentaire n'est requis pour utiliser cette application. Tout ce dont vous avez besoin c'est votre téléphone ouvrez Appstore ou Playstore et télécharger gratuitement l'application FreeMarket. 
 
 ## Comment utiliser
 
 1. Clonez ou téléchargez le projet depuis ce dépôt GitHub](https://github.com/FreeMarket/FRESH-LIST.
-2. Ouvrez le fichier `index.html` dans votre navigateur web.
-3. Utilisez l'application pour ajouter et supprimer des tâches de la liste.
+2. Ouvrez AppStore ou Playstore dans votre navigateur web.
+3. Utilisez l'application pour l'acheter de vos besoins et aussi pour vos courses quotiennes.
 
 ## Auteurs
 
